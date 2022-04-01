@@ -1,14 +1,11 @@
 {
   "users": [
     {
-      "name": "pranjal",
-      "password": "pranjal",
-      "location": "kolkata",
-      "interests": [
-        "food",
-        "culture"
-      ],
-      "image": "img",
+      "name": "Shubham",
+      "password": "shubham",
+      "location": "bangalore",
+      "interests": ["technology", "food", "movies"],
+      "image": "some images",
       "subscribed": [],
       "id": 3
     }
